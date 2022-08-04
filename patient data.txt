@@ -1,0 +1,8 @@
+Karabas Kopek 5 20 operation
+Mestan Kedi 4 30 oppp	
+Makarna Kedi 7 40 transfused
+Alev ıguana 3 90 kavun
+Van Kedi 6 15 transfused
+Egemen Manda 22 89 transfused
+Kar Kedi 4 120 transfused
+Su Hamster 4 190 transfused
