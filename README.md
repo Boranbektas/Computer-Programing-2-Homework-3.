@@ -1,4 +1,4 @@
-# Homework-3
+# Computer Programing 2,Homework 3.
 
 This is the third big project of my second semester
 
